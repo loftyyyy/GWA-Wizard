@@ -22,7 +22,7 @@ Stop wasting time! Whether you're a procrastinating student (aren't we all?) or 
 
 ---
 
-### Who can use GWA-Wizard?
+### ‼️ Who can use GWA-Wizard?
 - Only University of Mindanao Students
 ---
 
@@ -52,9 +52,9 @@ Stop wasting time! Whether you're a procrastinating student (aren't we all?) or 
 
 ## 📊 Formula Used  
 The script calculates your GWA using this formula:  
-\[
+$$
 \text{GWA} = \frac{\sum (\text{grade} \times \text{units})}{\sum \text{units}}
-\]  
+$$  
 - Grades with a value of `0` are skipped.  
 - Only valid numbers are considered.  
 
