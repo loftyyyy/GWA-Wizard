@@ -2,7 +2,9 @@
 **Tired of crunching numbers to figure out your General Weighted Average (GWA)?**  
 Fear not! GWA-Wizard is here to save the day. This handy Tampermonkey script automatically computes your GWA straight from your school portal, skipping over unreleased grades and doing all the heavy lifting for you. 🚀  
 
+
 ---
+
 
 ## ✨ Features  
 - **Auto-GWA Calculator**: No more manual math—let the script do the work!  
